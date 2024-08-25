@@ -30,7 +30,7 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgres" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://tokio.rs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tokio-rs/website/master/public/images/tokio.svg" width="36" height="36" alt="Tokio" /></a>
-width="36" height="36" alt="Actix-web" /> </a> 
+<a href="https://actix.rs/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13135415?s=200&v=4" width="36" height="36" alt="Actix-web" /></a>
 <a href="https://diesel.rs/" target="_blank" rel="noreferrer"><img src="https://diesel.rs/images/logo.png" width="36" height="36" alt="Diesel" /></a>
 <a href="https://www.shuttle.rs/" target="_blank" rel="noreferrer"><img src="https://shuttle.rs/static/img/logo.svg" width="36" height="36" alt="Shuttle" /></a>
 
