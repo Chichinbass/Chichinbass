@@ -41,3 +41,5 @@
 <a href="http://www.github.com/Chichinbass"><img src="https://github-readme-stats.vercel.app/api?username=Chichinbass&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Chichinbass's GitHub stats" /></a>
 
 <a href="http://www.github.com/Chichinbass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chichinbass&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chichinbass&layout=compact)
