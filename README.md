@@ -42,4 +42,4 @@
 
 <a href="http://www.github.com/Chichinbass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chichinbass&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chichinbass&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chichinbass)](https://github.com/Chichinbass/Chichinbass)
